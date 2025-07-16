@@ -4,3 +4,4 @@ dev1
 dev1 login
 dev2 regist member
 dev2 donation
+dev3 logout
